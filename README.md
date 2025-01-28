@@ -50,7 +50,7 @@ This repository contains the following components:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/yourusername/project-delta.git
+   https://github.com/Skywalker416/Analytical_Engineer_Week-6.git
    cd project-delta
    ```
 
